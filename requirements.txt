@@ -1,0 +1,4 @@
+pandas==1.5.3
+simple_salesforce==1.12.3
+streamlit==1.17.0
+transformers==4.26.0
